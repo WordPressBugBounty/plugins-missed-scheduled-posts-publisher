@@ -1,8 +1,8 @@
 === Missed Scheduled Posts Publisher by WPBeginner ===
 
-Stable tag:        2.0.0
+Stable tag:        2.1.0
 Requires at least: 5.0
-Tested up to:      6.3.1
+Tested up to:      6.6.2
 Requires PHP:      5.6
 License:           GPLv2
 Tags:              Scheduled posts, Missed schedule, Cron
@@ -81,6 +81,13 @@ To avoid impacting the performance of your WordPress site, the Missed Scheduled 
 Missed Scheduled Posts Publisher is a set-and-forget plugin. There are no settings, since your site's scheduled posts will automatically be checked when the plugin is installed and activated.
 
 == Changelog ==
+
+= 2.1.0 =
+
+* Updated: `CHANGELOG.md`
+* Updated: Version
+* Updated: "Tested up to..." constraints
+* Updated: `readme.txt`
 
 = 2.0.0 =
 
